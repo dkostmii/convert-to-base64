@@ -11,7 +11,7 @@ A tool to convert an image to Base64 data URL, which can be embedded in HTML or 
 
         ```SVG
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-          <image href="(YOUR URL)">
+          <image href="(YOUR URL)" />
         </svg>
         ```
 
