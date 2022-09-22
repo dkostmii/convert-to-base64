@@ -4,8 +4,8 @@ A tool to convert an image to Base64 data URL, which can be embedded in HTML or 
 
 ## How to use
 
-1. Obtain the URL from your image, clicking the **Convert image** button
-2. Copy it, pressing **Ctrl+A** (or **Command + A** on MacOS)
+1. Obtain the URL from your image, clicking the **Convert image** button.
+2. Copy it.
 2. Embed the image:
     - in SVG:
 
