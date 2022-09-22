@@ -1,0 +1,29 @@
+{
+  "name": "convert-to-base64",
+  "version": "1.0.0",
+  "description": "A tool to convert an image to Base64 data URL, which can be embedded in HTML or SVG.",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start --server -f -w",
+    "lint": "eslint ./src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkostmii/convert-to-base64.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkostmii/convert-to-base64/issues"
+  },
+  "homepage": "https://github.com/dkostmii/convert-to-base64#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.10",
+    "eslint": "^8.23.1",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.0.1"
+  }
+}
